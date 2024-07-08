@@ -38,4 +38,4 @@
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangminpark9&layout=compact)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangminpark9)](https://solved.ac/profile/sangminpark9)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangminpark9)](https://solved.ac/profile/renopark9)
