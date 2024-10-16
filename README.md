@@ -35,6 +35,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangminpark9&layout=compact)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=renopark9)](https://solved.ac/profile/renopark9)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangminpark9&show_icons=true&theme=radical)
-
